@@ -16,3 +16,5 @@
 
 
 *0utput*:
+
+        ![Image](https://github.com/user-attachments/assets/eb9ee441-c382-4418-a819-0c7b2071dd2e)
